@@ -10,7 +10,7 @@ Currently includes a script to create Jira issues.
 
    ```bash
    git clone https://github.com/yura20/jira-utils.git
-   cd jira-bash-scripts
+   cd jira-utils
    ```
 
 2. 🔑 Get your Jira API token:
